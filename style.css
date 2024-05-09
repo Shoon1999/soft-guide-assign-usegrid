@@ -1,0 +1,20 @@
+.container{
+    margin: 180px;
+    display: grid;
+    grid-template-columns:4fr 50fr ;
+    background-color: rgb(177, 202, 193);
+    width: 500px;
+    height: auto;
+}
+.text{
+    padding: 20px;
+    margin-right: 30px;
+}
+
+p{
+   text-align: justify;
+}
+span{
+    color: gray;
+    font-size: smaller;
+}
